@@ -1,0 +1,4 @@
+logging:
+  level:
+    net.zhfish.tio: debug
+    org.tio.core: debug
