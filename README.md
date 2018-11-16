@@ -19,7 +19,7 @@ spring-spring-boot-starter for tio-websocket
 - dependency Lombok Plugins
 ```xml
 <dependency>
-    <groupId>net.zhfish</groupId>
+    <groupId>net.zhfish.tio</groupId>
     <artifactId>tio-websocket-spring-boot-starter</artifactId>
     <version>0.0.1</version>
 </dependency>
